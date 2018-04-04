@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a2ede2b-6096-4646-a813-10a6413c4aee" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+            <state relative-caret-position="170">
+              <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -57,9 +58,9 @@
       <path value="$PHP$/php5.6.31" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="341" />
-    <option name="y" value="22" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="119" />
+    <option name="y" value="140" />
     <option name="width" value="943" />
     <option name="height" value="944" />
   </component>
@@ -98,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522627041393</updated>
-      <workItem from="1522627475660" duration="2670000" />
+      <workItem from="1522627475660" duration="4731000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit. Starting this project from:&#10;https://www.development-tutorial.com/make-website-from-scratch/">
       <created>1522627602964</created>
@@ -121,14 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1522628268632</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Worked on exercise 1, changed verbiage for readability">
+      <created>1522803781863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1522803781863</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2670000" />
+    <option name="totallyTimeSpent" value="4731000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="341" y="22" width="943" height="944" extended-state="0" />
+    <frame x="119" y="140" width="943" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
@@ -162,13 +170,14 @@
     <MESSAGE value="First Commit. Starting this project from:&#10;https://www.development-tutorial.com/make-website-from-scratch/" />
     <MESSAGE value="Added doctype, head, body, and paragraphs" />
     <MESSAGE value="Following the instructions..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Following the instructions..." />
+    <MESSAGE value="Worked on exercise 1, changed verbiage for readability" />
+    <option name="LAST_COMMIT_MESSAGE" value="Worked on exercise 1, changed verbiage for readability" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        <state relative-caret-position="170">
+          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
         </state>
       </provider>
     </entry>
