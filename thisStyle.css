@@ -65,3 +65,10 @@ li {
 table {
     background-color: #ccc;
 }
+
+footer {
+    margin-top: 20px;
+    border-top: dashed;
+    border-width: 2px;
+    border-color: #ccc;
+}
