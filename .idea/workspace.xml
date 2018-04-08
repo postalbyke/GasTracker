@@ -35,8 +35,8 @@
       <file leaf-file-name="thisStyle.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/thisStyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="458">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -130,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1522627041393</updated>
       <workItem from="1522627475660" duration="11889000" />
-      <workItem from="1523146761827" duration="1004000" />
+      <workItem from="1523146761827" duration="1065000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit. Starting this project from:&#10;https://www.development-tutorial.com/make-website-from-scratch/">
       <created>1522627602964</created>
@@ -174,11 +174,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522979936396</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="About to change the .css page">
+      <created>1523147794685</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1523147794685</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12893000" />
+    <option name="totallyTimeSpent" value="12954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="26" width="943" height="944" extended-state="0" />
@@ -219,7 +226,8 @@
     <MESSAGE value="Worked on exercise 1, changed verbiage for readability" />
     <MESSAGE value="Moved to a new tutorial website:&#10;http://www.htmldog.com/guides/html/beginner/" />
     <MESSAGE value="Started learning CSS, made some image links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started learning CSS, made some image links" />
+    <MESSAGE value="About to change the .css page" />
+    <option name="LAST_COMMIT_MESSAGE" value="About to change the .css page" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -259,8 +267,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/thisStyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="458">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
