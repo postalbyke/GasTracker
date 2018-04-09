@@ -62,8 +62,17 @@ li {
     font-style: italic;
 }
 
+table, td, th {
+    border: 1px solid black;
+}
+
 table {
     background-color: #ccc;
+}
+
+#table2 {
+    background-color: #3bff49;
+    border-collapse: collapse;
 }
 
 footer {
