@@ -81,3 +81,17 @@ footer {
     border-width: 2px;
     border-color: #ccc;
 }
+
+a:active {
+    color: red;
+}
+
+a:hover {
+    text-decoration: none;
+    color: blue;
+    background-color: yellow;
+}
+
+input:focus, textarea:focus {
+    background: #eee;
+}
