@@ -4,7 +4,6 @@
     <list default="true" id="3a2ede2b-6096-4646-a813-10a6413c4aee" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/third.html" beforeDir="false" afterPath="$PROJECT_DIR$/third.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thisStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/thisStyle.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,20 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="second.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="second.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/second.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="461">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="third.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="third.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/third.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1002">
-              <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
+            <state relative-caret-position="529">
+              <caret line="123" column="79" selection-start-line="123" selection-start-column="79" selection-end-line="123" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -45,7 +44,7 @@
       <file leaf-file-name="thisStyle.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thisStyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="747">
+            <state relative-caret-position="1632">
               <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
             </state>
           </provider>
@@ -78,8 +77,8 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/second.html" />
-        <option value="$PROJECT_DIR$/third.html" />
         <option value="$PROJECT_DIR$/thisStyle.css" />
+        <option value="$PROJECT_DIR$/third.html" />
       </list>
     </option>
   </component>
@@ -143,7 +142,8 @@
       <workItem from="1522627475660" duration="11889000" />
       <workItem from="1523146761827" duration="4136000" />
       <workItem from="1523231762882" duration="2239000" />
-      <workItem from="1523491493625" duration="1389000" />
+      <workItem from="1523491493625" duration="1545000" />
+      <workItem from="1523925172393" duration="1277000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit. Starting this project from:&#10;https://www.development-tutorial.com/make-website-from-scratch/">
       <created>1522627602964</created>
@@ -215,11 +215,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523233930381</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Started to learn more about CSS. Tried and failed to make my links glow on mouseover. Will try again in the future.">
+      <created>1523493042681</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1523493042681</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19653000" />
+    <option name="totallyTimeSpent" value="21086000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="225" y="26" width="1001" height="944" extended-state="0" />
@@ -241,10 +248,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3293124" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3293124" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,9 +271,38 @@
     <MESSAGE value="Copied CSS from &#10;http://www.htmldog.com/guides/css/beginner/conclusion/" />
     <MESSAGE value="Added a third page, worked on my footer buttons, checked out a quotation and figure setup." />
     <MESSAGE value="Learned something about tables. Specifically, adding borders requires &#10;another line. Will continue to work with that in the future &#10;(Like my life depends on it)!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learned something about tables. Specifically, adding borders requires &#10;another line. Will continue to work with that in the future &#10;(Like my life depends on it)!" />
+    <MESSAGE value="Started to learn more about CSS. Tried and failed to make my links glow on mouseover. Will try again in the future." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started to learn more about CSS. Tried and failed to make my links glow on mouseover. Will try again in the future." />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thisStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -351,24 +387,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/third.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1002">
-          <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/thisStyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
+        <state relative-caret-position="1632">
           <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/second.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="461">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="123" column="79" selection-start-line="123" selection-start-column="79" selection-end-line="123" selection-end-column="79" />
         </state>
       </provider>
     </entry>
